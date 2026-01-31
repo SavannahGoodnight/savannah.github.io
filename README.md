@@ -82,45 +82,43 @@
                 <h1>Savannah Goodnight</h1>
                 <p class="contact">
                     Email:
-                    <a href="mailto:nicolesaltgoodnight@gmail.com">nicolesaltgoodnight@gmail.com</a>
+                    <a href="nicolesaltgoodnight@gmail.com"
+                        >nicolesaltgoodnight.com</a
+                    >
                     | Phone: (740) 502-2953 | LinkedIn:
-                    <a href="https://linkedin.com/in/savannah-goodnight">linkedin.com/in/savannah-goodnight</a>
+                    <a href="#">linkedin.com/in/yourname</a>
                 </p>
             </section>
             <section class="section">
                 <h2>Summary</h2>
                 <p>
-                    As a 27-year-old single mother, I am transitioning my career path by immersing myself in coding. Driven by the goal of expanding my career choices and providing a stable future for my family, I am dedicated to mastering new skills and ready to bring a fresh perspective to the tech industry.
+                    "As a 27-year-old single mother, I am transitioning my career path by immersing myself in coding. Driven by the goal of expanding my career choices and providing a stable future for my family, I am dedicated to mastering new skills and ready to bring a fresh perspective to the tech industry."
                 </p>
             </section>
             <section class="section">
                 <h2>Work Experience</h2>
                 <div class="item">
-                    <h3>Job Title - Company Name</h3>
-                    <p>Dates of Employment</p>
-                    <p>
-                        Brief description of your responsibilities and
-                        achievements in this role.
+                    <h3>Fencing Business Co-Owner - Grant Fencing and Restoration</h3>
+                    <p> Dates of Employment: 01/2021-06/2023</p>
+                    <p> Fencing companies play a crucial role in both residential and commercial property projects. Their primary responsibility is to design, install, repair, and maintain fences that meet the needs and preferences of the property owner. They assess the terrain, measure boundaries, and ensure the fence is installed properly and following local regulations. Their expertise ensures that the structure is durable and able to withstand environmental factors such as wind, rain, and sun exposure. Proper installation will lead to your fence having secured longevity. In addition to installation, contractors offer repair services for damaged fences, regular maintenance services, and cleaning and re-sealing to prolong the lifespan of the fence. By working with professional a fence contractor, property owners can ensure their fences are not only functional but also add long-term value and appeal to their homes or businesses.
                     </p>
                 </div>
                 <div class="item">
-                    <h3>Job Title - Company Name</h3>
-                    <p>Dates of Employment</p>
-                    <p>
-                        Brief description of your responsibilities and
-                        achievements in this role.
+                    <h3>Independant Contract Cleaner - Goodnight CLeans</h3>
+                    <p>Dates of Employment: 10/2024-Present</p>
+                    <p> The responsabilities and achievements of an indipendent contract cleaner include maintaining cleanliness and sanitation standards in various environments, such as offices, commercial buildings, schools, or residential properties. Their responsibilities include sweeping, mopping, vacuuming, and disinfecting surfaces, emptying trash bins, cleaning and disinfecting restrooms, dusting furniture, and replenishing cleaning supplies. Achievements may include improving customer satisfaction rates, reducing cleaning time, training new employees, implementing eco-friendly cleaning methods, maintaining safety compliance, increasing client retention, and operating specialized cleaning equipmentBrief description of your responsibilities and achievements in this role.
                     </p>
                 </div>
             </section>
-            <section class="section">
+            <div class="section">
                 <h2>Education</h2>
                 <div class="item">
-                    <h3>High School Diploma - Northside High School</h3>
+                    <h3>Highschool Diplomna - Northside Highschool</h3>
                     <p>Year of Graduation: 2015</p>
                 </div>
                 <div class="item">
-                    <h3>Coding Courses - Code:You Louisville</h3>
-                    <p>Year of Graduation: In progress</p>
+                    <h3>Coding Educational Educational; Courses - Code:You Louisville</h3>
+                    <p>Year of graduation: Ongoing</p>
                 </div>
             </section>
             <section class="section">
@@ -132,22 +130,22 @@
                         <li>JavaScript</li>
                         <li>Python</li>
                         <li>Credential Manager</li>
-                        <li>GitHub / Git Bash</li>
-                        <li>Visual Studio Code</li>
-                        <li>Data Management</li>
+                        <li>Github/GitBash</li>
+                        <li>Visual Studios</li>
+                        <li>Data Managment</li>
                         <li>Team Leadership</li>
                         <li>Version Control</li>
-                        <li>Problem Solving</li>
+                        <li>Problem-Solving</li>
                         <li>Effective Communication</li>
                         <li>Teamwork</li>
                         <li>Adaptability</li>
-                        <li>Time Management</li>
+                        <li>Time Managment</li>
                         <li>Speed Reading</li>
-                        <li>Typing Skills</li>
-                        <li>Attention to Detail</li>
+                        <li>Typing skills</li>
+                        <li>Attention to detail</li>
                         <li>Positivity</li>
                         <li>Patience</li>
-                        <li>High Drive and Ambition</li>
+                        <li>High Drive and Goals</li>
                     </ul>
                 </div>
             </section>
@@ -156,13 +154,15 @@
                 <div class="item">
                     <h3>Hello World</h3>
                     <p>
-                        This repository is for practicing the GitHub flow. Examples of the technologies utilized include GitHub, and I used many educational resources including Code:You Louisville's introductory course.
+                        This repository is for practicing the Git Hub Flow, examples of the technologies utalized were Git Hub, 
+                        as the creator I utalized many educational resources including Code:You Lousiville's program introduction course.
                     </p>
                 </div>
                 <div class="item">
                     <h3>About-me-HTML</h3>
                     <p>
-                        This project helped me familiarize myself with the process of creating a personal webpage. Technologies used include Visual Studio Code extensions such as Prettier (code formatter), Live Server, HTML/CSS support, and JavaScript (ES6) code snippets. My role was to create an `index.html` file, input necessary information, and push the project to GitHub.
+                        This project is for is for familiarizing my self with the process and steps to create my own webpage, the the technologies used include but are not limited to Visual Studios Extensions: Prettier- Code formatter, Live Server, HTML CSS Support, JavaScript (ES6) coder snippets.
+                        My role in the project in the project was to create an index.html file, edit it it and imput necissary information and push to github to my local folder for my new Git Hub repository. 
                     </p>
                 </div>
             </section>
